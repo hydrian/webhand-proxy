@@ -1,2 +1,2 @@
-# webfinger-responder
-A simple python server to respond to webfingers
+# webhand-proxy
+A simple python server to respond to multiple  webfingers
